@@ -35,9 +35,3 @@ Este repositório contém um código em Terraform para configurar a infraestrutu
 
 - Terraform versão `>= 1.2.0`.
 - Conta AWS com permissões para criar subnets, instâncias EC2 e acessar zonas de disponibilidade.
-
-## Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Terraform-AWS-Infrastructure-Setup.git
